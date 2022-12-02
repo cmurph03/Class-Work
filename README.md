@@ -1,4 +1,4 @@
-# Class-Work
+# Linear Systems Lab
 
 Repository saving work from the Linear Systems lab I took in Fall 2021. The labs are as follows (and do not have a fully sequential numbering scheme
 and are labeled as the instructor originallly did so):
